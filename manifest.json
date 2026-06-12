@@ -1,0 +1,250 @@
+{
+  "version": "1.0",
+  "skills": [
+    {
+      "name": "@automatelab-citation-intelligence-0.11.0",
+      "grade": "S",
+      "file": "@automatelab-citation-intelligence-0.11.0.zip",
+      "size": 143192,
+      "sha256": "0dd5ddcd056bd2b1572902bb49417519e537eaa35bacaac61f39c2be0c73ca75"
+    },
+    {
+      "name": "@automatelab-n8n-mcp-0.6.5",
+      "grade": "S",
+      "file": "@automatelab-n8n-mcp-0.6.5.zip",
+      "size": 105196,
+      "sha256": "f2e8a3764611d984ef3dbaeb278a1e7a5bc1a6a53f01475275fd38e01aa6ae25"
+    },
+    {
+      "name": "afrexai-productivity-system-1.1.0",
+      "grade": "S",
+      "file": "afrexai-productivity-system-1.1.0.zip",
+      "size": 8691,
+      "sha256": "a5fc0871dff3ead03e83817ed91c0497f3eeadc1ea242960c035ef29f70ec504"
+    },
+    {
+      "name": "ai-software-company-1.1.0",
+      "grade": "S",
+      "file": "ai-software-company-1.1.0.zip",
+      "size": 40228,
+      "sha256": "d31639b217c06a0d38be066163e7ec4467836023b24e45131f9674652ed1a5f4"
+    },
+    {
+      "name": "alicloud-ai-entry-modelstudio-test-1.1.3",
+      "grade": "S",
+      "file": "alicloud-ai-entry-modelstudio-test-1.1.3.zip",
+      "size": 2574,
+      "sha256": "e7de8e25f8dd3fe8486c41b7f0aab25b334b2a70db2dde95b2e112cc7278cb7c"
+    },
+    {
+      "name": "darwin-skill-master-1.0.1",
+      "grade": "S",
+      "file": "darwin-skill-master-1.0.1.zip",
+      "size": 4704226,
+      "sha256": "1169b9fd23662cac32b8c8bb1b4f89391ff29402d87208a85d6e621c93dc0ecb"
+    },
+    {
+      "name": "gingiris-blog-writer-1.1.1",
+      "grade": "S",
+      "file": "gingiris-blog-writer-1.1.1.zip",
+      "size": 3557,
+      "sha256": "f858f0b769ce9b2ba39f21fb0bfcf1bb0bab8bcdae6e6dd7153e4806e320d546"
+    },
+    {
+      "name": "idea-darwin-zh-1.1.0",
+      "grade": "S",
+      "file": "idea-darwin-zh-1.1.0.zip",
+      "size": 15406,
+      "sha256": "42d739ff31fc37ffaa9219ebc3e54648d4c40e452fdaf2a874922a0d926fb1a0"
+    },
+    {
+      "name": "one-person-company-plus-1.1.0",
+      "grade": "S",
+      "file": "one-person-company-plus-1.1.0.zip",
+      "size": 28782,
+      "sha256": "25e54b7928302c37d9e620834cb45233e1ac8ca23b407c9f489997f5960d2715"
+    },
+    {
+      "name": "one-person-mcn-1.1.3",
+      "grade": "S",
+      "file": "one-person-mcn-1.1.3.zip",
+      "size": 10435,
+      "sha256": "fbbc719654a541f7d83275314bdb509f2ad9cbc9d298bd4a8b92efca51d30afe"
+    },
+    {
+      "name": "pet-short-video-script-1.1.1",
+      "grade": "S",
+      "file": "pet-short-video-script-1.1.1.zip",
+      "size": 20605,
+      "sha256": "4c0354a049cec0d08a1d984534bb880392231617dbe1670ab98178190c686356"
+    },
+    {
+      "name": "seo-blog-writer-3.3.0",
+      "grade": "S",
+      "file": "seo-blog-writer-3.3.0.zip",
+      "size": 4464,
+      "sha256": "d53d9a53730987aeb902963d0e7b765735ab922f429adec9804f2877a67206c5"
+    },
+    {
+      "name": "skill-trace-checker-1.1.0",
+      "grade": "S",
+      "file": "skill-trace-checker-1.1.0.zip",
+      "size": 21115,
+      "sha256": "c04ea2195ef9409ce769393a931825ed596532277c7d1307f55b7fd7324f2b71"
+    },
+    {
+      "name": "social-media-management-1.1.0",
+      "grade": "S",
+      "file": "social-media-management-1.1.0.zip",
+      "size": 33437,
+      "sha256": "8fcc10885b6fb70c8563d125b816cca323808428402f55ab567fbd6285da3b9a"
+    },
+    {
+      "name": "solo-mentor-hub-1.1.0",
+      "grade": "S",
+      "file": "solo-mentor-hub-1.1.0.zip",
+      "size": 15575,
+      "sha256": "1f26e222b8e5402365914a2d53acfec4765b31971428157d1add16241501bb7c"
+    },
+    {
+      "name": "sop-extractor-plus-1.1.2",
+      "grade": "S",
+      "file": "sop-extractor-plus-1.1.2.zip",
+      "size": 52122,
+      "sha256": "091bde314503d90ea692c994ddfb02500a0b1396ccd8b081309a5a6b99d81a1a"
+    },
+    {
+      "name": "strategic-marketing-director-1.1.0",
+      "grade": "S",
+      "file": "strategic-marketing-director-1.1.0.zip",
+      "size": 35264,
+      "sha256": "3c78d73d5c6bbc73933812fa0b4017d9ce7c3f40e8f4ef3c140c6cfc7d05a6f2"
+    },
+    {
+      "name": "@automatelab-ai-seo-mcp-0.6.0",
+      "grade": "A",
+      "file": "@automatelab-ai-seo-mcp-0.6.0.zip",
+      "size": 143881,
+      "sha256": "d6fd4ba6eaf7c178e187fb5caa247fb6a8f8554cafdf2fbc1f34e5f8871b3393"
+    },
+    {
+      "name": "@automatelab-content-distribution-mcp-2.3.1",
+      "grade": "A",
+      "file": "@automatelab-content-distribution-mcp-2.3.1.zip",
+      "size": 62131,
+      "sha256": "70365278b814f0e5b7ff9e2e188eb6656ff3054fcea4b940bdb06cc5db2c3fbc"
+    },
+    {
+      "name": "aliyun-image-1.2.0",
+      "grade": "A",
+      "file": "aliyun-image-1.2.0.zip",
+      "size": 19209,
+      "sha256": "276fa301f2cd91fcbc7b81cf7254ba72261e6911a3991a89bef12c6627306dd4"
+    },
+    {
+      "name": "content-brainstorm-1.1.0",
+      "grade": "A",
+      "file": "content-brainstorm-1.1.0.zip",
+      "size": 1461,
+      "sha256": "3df3a986dfa965a8f74645a90782a494ec563bfd452fe2d4d805b92ff3c16768"
+    },
+    {
+      "name": "content-deai-engine-1.1.0",
+      "grade": "A",
+      "file": "content-deai-engine-1.1.0.zip",
+      "size": 5560,
+      "sha256": "500a219d5408f1bb3bc1f7c3812be29262b884160a4df8fb9ade9e20c146b74f"
+    },
+    {
+      "name": "instagram-scraper-1.1.7",
+      "grade": "A",
+      "file": "instagram-scraper-1.1.7.zip",
+      "size": 4632,
+      "sha256": "6bfac62bc49562d287e0569b558b76571f2a3d4d7204089ca5a328a294f1a77c"
+    },
+    {
+      "name": "omnipublisher-1.1.0",
+      "grade": "A",
+      "file": "omnipublisher-1.1.0.zip",
+      "size": 2433,
+      "sha256": "99b63c952a76163a374fabf67e8c1dd4e60bde2993e568362c12abf4ea669a16"
+    },
+    {
+      "name": "shortvideo-hook-1.2.1",
+      "grade": "A",
+      "file": "shortvideo-hook-1.2.1.zip",
+      "size": 27508,
+      "sha256": "ff0eb556b8f6e18887326606d35a76180483ae13bc80aa83013a37fffd0c8269"
+    },
+    {
+      "name": "skill-xhs-mcp-1.1.0",
+      "grade": "A",
+      "file": "skill-xhs-mcp-1.1.0.zip",
+      "size": 2418,
+      "sha256": "e7d3a513c51af18aa475861d825e5e9e5b98293cac5bcc546c2951b2befc8813"
+    },
+    {
+      "name": "social-media-optimizer-1.1.0",
+      "grade": "A",
+      "file": "social-media-optimizer-1.1.0.zip",
+      "size": 4591,
+      "sha256": "24376c19bbb809b846e13dfad0f50a223e72b7cbb54dc07d7520cca0c2c2346d"
+    },
+    {
+      "name": "solo-ecom-pilot-1.1.0",
+      "grade": "A",
+      "file": "solo-ecom-pilot-1.1.0.zip",
+      "size": 31742,
+      "sha256": "d28bdd608401c1cef9cd6421031b6d65fe2890876da16eeaf6978f7400ac6478"
+    },
+    {
+      "name": "solo-legal-guard-1.1.2",
+      "grade": "A",
+      "file": "solo-legal-guard-1.1.2.zip",
+      "size": 33820,
+      "sha256": "5d058169e5e1f647d3ee7e6deb9157029403c6cc3052d578580a66168c14401f"
+    },
+    {
+      "name": "solo-media-matrix-1.1.2",
+      "grade": "A",
+      "file": "solo-media-matrix-1.1.2.zip",
+      "size": 20890,
+      "sha256": "8c138727ec6a59a842fb967dddd4cf538a3281f2ea414793150f761ddd00f8c2"
+    },
+    {
+      "name": "tencent-novnc-chromium-cdp-1.1.40",
+      "grade": "A",
+      "file": "tencent-novnc-chromium-cdp-1.1.40.zip",
+      "size": 8703,
+      "sha256": "6150a6e39a4e2ac0953edaaa61070839261857d11fb28fdaec1902da507a80ff"
+    },
+    {
+      "name": "threads-skills-1.1.1",
+      "grade": "A",
+      "file": "threads-skills-1.1.1.zip",
+      "size": 5356,
+      "sha256": "e97c07e9079f9c2389353181986ec1231b00e5c2cc99d40370e3759c713936d3"
+    },
+    {
+      "name": "agent-stack-1.1.0",
+      "grade": "B",
+      "file": "agent-stack-1.1.0.zip",
+      "size": 2270,
+      "sha256": "f06f5d9b638bedf0069f99d3ddc80c696f1e37df04247a78e6073f777176aeef"
+    },
+    {
+      "name": "blog-seo-writer-1.1.0",
+      "grade": "B",
+      "file": "blog-seo-writer-1.1.0.zip",
+      "size": 2380,
+      "sha256": "2cb3bc9e424ef2169b707829136c2c197f2b18009139e1aa9bd54fc29e91615d"
+    },
+    {
+      "name": "video-generator-1.1.42",
+      "grade": "B",
+      "file": "video-generator-1.1.42.zip",
+      "size": 13517,
+      "sha256": "ba136fecebc1ff40c2505973243e8cd5d13375de6c41d9d7e54185cf87812975"
+    }
+  ]
+}
