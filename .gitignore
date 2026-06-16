@@ -1,0 +1,7 @@
+.DS_Store
+extracted_*/
+*-test-prompts.json
+*-results.tsv
+*-baseline_eval.json
+*-EVOLUTION_SUMMARY.tsv
+*-FINAL_DARWIN_EVALUATION.json
